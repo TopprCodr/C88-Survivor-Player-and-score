@@ -1,1 +1,1 @@
-# Game enviroment
+# Game environment
